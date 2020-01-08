@@ -1,0 +1,19 @@
+﻿1230.exe' (Win32): 已載入 'C:\Users\alice mac\Desktop\作業2\1230\Debug\1230.exe'。已載入符號。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已卸載 'C:\Windows\SysWOW64\ucrtbased.dll'
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sechost.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sspicli.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\cryptbase.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcryptprimitives.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。找不到或無法開啟 PDB 檔案。
+1230.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。找不到或無法開啟 PDB 檔案。
+0x3580 執行緒以返回碼 0 (0x0) 結束。
+0x372c 執行緒以返回碼 0 (0x0) 結束。
+0x3e34 執行緒以返回碼 0 (0x0) 結束。
+'[8100] 1230.exe' 程式以返回碼 0 (0x0) 結束。
